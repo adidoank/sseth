@@ -1,3 +1,19 @@
-deb http://us.archive.ubuntu.com/ubuntu/ bionic main restricted
+deb http://kambing.ui.ac.id/ubuntu/ bionic main restricted
 
-deb-src http://us.archive.ubuntu.com/ubuntu/ bionic main restricted
+deb http://kambing.ui.ac.id/ubuntu/ bionic-updates main restricted
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic universe
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic-updates universe
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic multiverse
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic-updates multiverse
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic-backports main restricted universe multiverse
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic-security main restricted
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic-security universe
+
+deb http://kambing.ui.ac.id/ubuntu/ bionic-security multiverse
